@@ -1,4 +1,4 @@
-# Realtime-Swiggy-Instamart-Analysis
+# Realtime-Swiggy-Instamart-Analysis 
 
 **Project Overview**
 This project involves an in-depth analysis of Swiggy Instamart's sales performance, customer satisfaction, and inventory distribution. Using Microsoft Excel, a comprehensive dashboard was created to visualize trends and insights across key metrics, helping identify growth opportunities and areas for improvement.
