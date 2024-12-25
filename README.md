@@ -15,8 +15,15 @@ This project involves an in-depth analysis of Swiggy Instamart's sales performan
 - How does fat content influence sales and other metrics?
   - **Analysis:** Comparison of Total Sales, Average Sales, Number of Items, and Average Rating across fat content categories.
 - What are the sales trends for different item types, outlet types, and outlet locations?
+  **Sales Trends:**
+    - **Item Types:** Top sales come from Fruits & Vegetables ($178.12K) and Snack Foods ($175.43K). Lowest: Seafood ($9.08K).
+    - **Outlet Types:** Supermarket Type 1 leads ($787.55K), Grocery Stores follow ($151.94K).
+    - **Locations:** Tier 3 has the highest sales ($472.1K), Tier 1 the lowest ($336.4K).-   
 - How do outlet size and establishment year correlate with sales?
-
+    **Outlet Size & Year Correlation:**
+    - **Size:** High-sized outlets generate the most sales ($507.90K), small-sized the least ($248.99K).
+    - **Year:** Sales peaked in 2018 ($204.52K) and remained stable at around $130K from 2019–2022.
+  
 **Process of the Project**
 1. **Data Collection and Cleaning**
    - Imported sales, inventory, and customer satisfaction data into Excel.
