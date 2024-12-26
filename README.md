@@ -3,7 +3,7 @@
 **Project Overview**
 This project involves an in-depth analysis of Swiggy Instamart's sales performance, customer satisfaction, and inventory distribution. Using Microsoft Excel, a comprehensive dashboard was created to visualize trends and insights across key metrics, helping identify growth opportunities and areas for improvement.
 
-[Excel Dashboard](https://github.com/Sarv2/Realtime-Swiggy-Instamart-Analysis/raw/main/Excel-Dashboard.xlsx)
+[Excel Dashboard](https://github.com/Sarv2/Realtime-Swiggy-Instamart-Analysis/blob/ed00db0bcf7af7e10be0dbc6c9e60b3e2a29650a/Realtime%20Swiggy%20Instamart%20Analysis.xlsx)
 
 **Key Questions (KPIs)**
 - What is the total revenue generated from sales?
