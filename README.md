@@ -9,7 +9,7 @@ This project involves an in-depth analysis of Swiggy Instamart's sales performan
 - What is the average revenue per sale?
   - **KPI: Average Sales:** $141.
 - How many items have been sold?
-  - **KPI: Number of Items:** 8,523.
+  - **KPI: Number of Items:** 8,523. 
 - What is the average customer rating for sold items?
   - **KPI: Average Rating:** 4.0.
 - How does fat content influence sales and other metrics?
@@ -71,7 +71,7 @@ This project involves an in-depth analysis of Swiggy Instamart's sales performan
 **Conclusion**
 The analysis provides the following actionable insights:
 - Invest in low-fat products and expand inventory for better sales and customer satisfaction.
-- Focus on scaling operations in Tier 2 and Tier 3 locations to tap into untapped potential.
+- Focus on scaling operations in Tier 2 and 3 locations to tap into untapped potential.
 - Optimize outlet sizes and types to enhance inventory management and sales efficiency.
 - Leverage data-driven strategies for enhancing product categorization and outlet establishment planning.
 
